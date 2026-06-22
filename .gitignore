@@ -1,0 +1,28 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Dataset
+data/
+
+# Large files
+*.h5
+
+.venv/
+__pycache__/
+
+models/*.keras
+
+data/
